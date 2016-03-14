@@ -1,4 +1,4 @@
-// Databricks notebook source exported at Mon, 14 Mar 2016 23:27:09 UTC
+// Databricks notebook source exported at Mon, 14 Mar 2016 23:43:25 UTC
 1+1
 
 // COMMAND ----------
@@ -15,6 +15,3 @@ x + 3
 
 // COMMAND ----------
 
-// MAGIC %md #### Woah added another to the end.
-
-// COMMAND ----------
